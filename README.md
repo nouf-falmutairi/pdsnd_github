@@ -5,3 +5,10 @@
 
 ### Project Title
 bikeshare
+
+### Description
+scan and get statistic information about bikes in different cities
+
+### Files used
+bikeshare.py along with three .csv files that were hidden from user
+
