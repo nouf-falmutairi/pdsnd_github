@@ -17,3 +17,6 @@ my own python code
 
 ### language used
  python
+
+## library used 
+pandas and numpy
