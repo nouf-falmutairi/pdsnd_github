@@ -13,4 +13,4 @@ scan and get statistic information about bikes in different cities
 bikeshare.py along with three .csv files that were hidden from user
 
 ### Credits
-my own code for python code
+my own python code
