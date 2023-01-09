@@ -42,7 +42,7 @@ def get_filters():
          m_data = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
          month = input('\nWhich month would you like to see data on?\nYour choices are: January, February, March, April, May, June. In case you do not wish to apply a filter, please enter \'All\'.\n\nYour Choice: ')
          month = month.casefold()
-    
+    # confirm month
          while month not in m_data:
             month = input('\nThat is not a valid entry. Please try again.\nYour choices are: January, February, March, April, May, June. In case you do not wish to apply a filter, please enter \'All\'.\n\nYour Choice: ')
             month = month.casefold()
